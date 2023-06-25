@@ -1,7 +1,6 @@
 '''
 Source codes for Python Machine Learning By Example 3rd Edition (Packt Publishing)
 Chapter 2 Building A Movie Recommendation Engine with Naive Bayes
-Author: Yuxi (Hayden) Liu (yuxi.liu.ece@gmail.com)
 '''
 
 import numpy as np
